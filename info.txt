@@ -1,0 +1,12 @@
+5 types of transactions:
+1. CASH-IN = any deposit
+2. CASH-OUT = any withdrawal
+3. DEBIT = type of wirthdrawal in which the money is sent to the user's bank account
+4. Payment = purchase of goods or services
+5. TRANSFER = moving of money from one user's account to another user's account
+
+Two fields = Fraud Tagging
+
+IsFlaggedFraud = detected by automation system while IsFraud isfraud that truly occured
+
+
